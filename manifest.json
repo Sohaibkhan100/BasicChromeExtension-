@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Addition",
+  "version": "1.0",
+  "description": "Takes two numbers and add them",
+  "action": {
+    "default_popup": "popup.html"
+  }
+
+}
